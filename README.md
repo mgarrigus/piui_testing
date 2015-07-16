@@ -6,7 +6,11 @@ cd piui_testing
 ```
 
 ## From scratch
-Use the included project file ![Alt text](assets/1/design.jpg?raw=true "Dashboard") to create a working UI
+Use the included project file located here ```shell assets/1/design.jpg ``` 
+
+![Alt text](assets/1/design.jpg?raw=true "Dashboard")
+
+Create a working UI using this design.
 
 **Time**:  Spend no longer than 1 hour on this exercise.   Do not worry about finishing the design, simply complete what you can within 1 hour.  
 
