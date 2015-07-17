@@ -6,7 +6,7 @@ cd piui_testing
 ```
 
 ## From scratch
-Use the included project file located here ```shell builds/design.png ``` 
+Use the included project file located here ``` builds/design.png ``` 
 
 ![Alt text](builds/design.png?raw=true "Dashboard")
 
