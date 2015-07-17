@@ -8,7 +8,7 @@ cd piui_testing
 ## From scratch
 Use the included project file located here ```shell assets/1/design.jpg ``` 
 
-![Alt text](/builds/app/app/assets/design.png?raw=true "Dashboard")
+![Alt text](builds/design.png?raw=true "Dashboard")
 
 Create a working UI using this design.
 
