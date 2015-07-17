@@ -16,7 +16,7 @@ Create a working UI using this design.
 
 **Notes**:  Some frameworks and assets are included on this project, but do not feel limited with these resources.  Use the languages and frameworks you feel comfortable using.
 
-**When Finished**:  Put your resulting build into ```shell results/ ``` when finished, and push results up on your github account.
+**When Finished**:  Put your resulting build into ```results/ ``` when finished, and push results up on your github account.
 
 ## JavaScript Testing
 
